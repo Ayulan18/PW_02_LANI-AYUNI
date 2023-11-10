@@ -1,0 +1,51 @@
+body {
+    margin: 2000px;
+    padding: 0;
+}
+
+div {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oR9odq8Q8QC5dT_mGQzoWRORLwXNhf-KqA&usqp=CAU);
+    background-size: cover;
+    
+    padding-bottom: 3000px;
+    padding-top: 7000px;
+}
+
+.header {
+    height: 30px;
+    background: black;
+    color: white;
+    font-size: 50px;
+    text-align: left; /* Corrected "leaft" to "left" */
+    font-weight: bold; /* Changed "matrix" to "bold" */
+    line-height: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.logo {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add some margin to separate the logo from the text */
+}
+
+
+
+
+.header .navbar-extra a {
+    color: #fff;
+}
+
+.content {
+    width: 100%;
+    height: auto;
+    border: 1px solid;
+    padding-top: 30px;
+    padding-bottom: 200px;
+    line-height: 1.2;
+    padding: 1.4rem 5%;
+    max-width: 76.7rem;
+
+}
+
+
